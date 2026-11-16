@@ -6,6 +6,8 @@ integrations together.
 
 I trained as an industrial engineer and came to enterprise systems from the factory floor. I measure before I automate.
 
+[LinkedIn](https://www.linkedin.com/in/abdullah-al-attas-4385a42b5)
+
 ## What I work on
 
 - **ERP and finance flows**: NetSuite design and SuiteScript, invoicing, customer statements, cash application
